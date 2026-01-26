@@ -1,6 +1,6 @@
 # ✨ GlowQueen - Beauty & Wellness SPA
 
-> A modern, responsive Single Page Application for a beauty treatment center built with cutting-edge web technologies.
+> A modern, not-responsive Single Page Application for a beauty treatment center built with cutting-edge web technologies.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-C6538C?style=for-the-badge&logo=sass&logoColor=white)
